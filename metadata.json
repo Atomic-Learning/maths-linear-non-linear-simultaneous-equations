@@ -1,22 +1,19 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Maths: Linear vs Non-linear Simultaneous Equations",
+    "slug": "maths-linear-non-linear-simultaneous-equations",
+    "description": "Distinguishes linear and non-linear systems of simultaneous equations based on linearity of the terms within the equations.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "maths",
+        "linear-algebra"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "maths-simultaneous-equations",
+        "maths-linear-equations"
     ],
     "related": [
-        "",
-        ""
     ]
 }
